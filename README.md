@@ -1,2 +1,3 @@
 # novo
- primeiro repositorio
+ primeiro repositório...
+ começando os primeiros passos no git
